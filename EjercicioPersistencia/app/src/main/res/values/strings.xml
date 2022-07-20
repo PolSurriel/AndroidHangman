@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EjercicioPersistencia</string>
+    <string name="username_hint">Username</string>
+    <string name="register_title">Register</string>
+    <string name="register_action">Register</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="ranking_title">Ranking</string>
+
+    <string name="main_menu_title">Menu</string>
+    <string name="config_title">Configuration</string>
+    <string name="play_title">Play</string>
+
+    <string name="difficulty_title">Difficulty</string>
+    <string name="easy_difficulty">Easy</string>
+    <string name="hard_difficulty">Hard</string>
+    <string name="medium_difficulty">Medium</string>
+    <string name="back_to_main_menu">Back</string>
+
+
+    <string name="endgame_message">Endgame</string>
+    <string name="try_again">Play again</string>
+
+
+    <string name="register_message_success">Register complete!</string>
+
+    <string name="invalid_input_warning">Invalid input.</string>
+
+
+
+</resources>
