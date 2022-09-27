@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/HomeBottomButton"
+        android:icon="@drawable/logo"
+        android:title="@string/tab_home_name" />
+    <item
+        android:id="@+id/ScoreBottomButton"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="@string/tab_score_name" />
+    <item
+        android:id="@+id/SettingsBottomButton"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/tab_settings_name" />
+</menu>

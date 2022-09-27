@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_home_name">Home</string>
+    <string name="tab_score_name">Score</string>
+    <string name="tab_settings_name">Settings</string>
+    <string name="play_action_name">Jugar</string>
+    <string name="login_action_name">Iniciar sesión</string>
+    <string name="register_action_name">Registrarse</string>
+    <string name="logout_action_name">Cerrar sesión</string>
+    <string name="welcome_title">¡Bienvenido!</string>
+    <string name="email">Correo electrónico</string>
+    <string name="register_error_message">Ha habido un error en el registro.</string>
+    <string name="login_error_message">Ha habido un error en el inicio de sesión.</string>
+    <string name="home_tab_name">Inicio</string>
+    <string name="score_tab_name">Puntuación</string>
+    <string name="settings_tab_name">Config</string>
+    <string name="pause">Pausa</string>
+    <string name="resume">Reanudar</string>
+    <string name="new_game">Nueva partida</string>
+    <string name="menu">Menú</string>
+
+    <string name="gameover">¡Fin de partida!</string>
+    <string name="ad_offer">Mira un anuncio para continuar jugando.</string>
+    <string name="viewas_action">Ver anuncia</string>
+    <string name="giveup_action">Rendirse</string>
+    <string name="victory">¡Victoria!</string>
+
+    <string name="reminder_title">¡Juega de nuevo!</string>
+    <string name="reminder_text">Disfruta de Hangman game.</string>
+
+    <string name="save_action">Guardar</string>
+    <string name="loading">Cargando</string>
+
+    <string name="change_username">Cambiar de usuario</string>
+    <string name="sound">Sonido</string>
+    <string name="notifications">Notificaciones</string>
+
+</resources>

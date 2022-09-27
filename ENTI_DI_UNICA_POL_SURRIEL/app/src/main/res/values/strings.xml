@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">ENTI_DI_UNICA_POL_SURRIEL</string>
+    <string name="tab_home_name">Home</string>
+    <string name="tab_score_name">Score</string>
+    <string name="tab_settings_name">Settings</string>
+    <string name="play_action_name">Play</string>
+    <string name="login_action_name">Log in</string>
+    <string name="register_action_name">Register</string>
+    <string name="logout_action_name">Log out</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="email">Email</string>
+    <string name="register_error_message">An error ocurred while signin up.</string>
+    <string name="login_error_message">An error ocurred while signin in.</string>
+    <string name="home_tab_name">Home</string>
+    <string name="score_tab_name">Score</string>
+    <string name="settings_tab_name">Settings</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="new_game">New Game</string>
+    <string name="menu">Menu</string>
+
+    <string name="gameover">Game Over</string>
+    <string name="reminder_title">Come back and play!</string>
+    <string name="reminder_text">Enjoy the Hangman game again.</string>
+    <string name="victory">Victory</string>
+    <string name="ad_offer">Watch an ad and keep playing</string>
+    <string name="viewas_action">View ad</string>
+    <string name="giveup_action">Give up</string>
+    <string name="save_action">Save</string>
+    <string name="loading">Loading</string>
+    <string name="change_username">Change username</string>
+
+    <string name="sound">Sound</string>
+    <string name="notifications">Notifications</string>
+
+
+</resources>
